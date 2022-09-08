@@ -26,7 +26,15 @@ var myFourthVariable = myNewFirstVariable + myNewSecondVariable + myNewThirdVari
 print(myFourthVariable)
 
 
+// Assignment #@ Introduction to True and False
+var appState = false
 
+print(appState)
 
+//Comparing variables using > (greater than) or < (less than)
+
+var numberOne = 5
+var numberTwo = 7
+var comparison = numberOne > numberTwo
 
 
