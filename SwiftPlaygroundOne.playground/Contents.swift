@@ -37,4 +37,12 @@ var numberOne = 5
 var numberTwo = 7
 var comparison = numberOne > numberTwo
 
+var myFifthVariable : String
+myFifthVariable = "10"
+
+var mySixthVariable : String
+mySixthVariable = "5"
+
+var equal = myFifthVariable == mySixthVariable
+print(equal)
 
