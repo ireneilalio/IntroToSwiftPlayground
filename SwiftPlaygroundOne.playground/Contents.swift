@@ -12,3 +12,21 @@ var mySecondVariable = "and look I added two strings together"
 
 var myThirdVariable = myFirstVariable + mySecondVariable
 print(myThirdVariable)
+
+var myNewFirstVariable : String
+myNewFirstVariable = "Aloha, "
+
+var myNewSecondVariable : String
+myNewSecondVariable = "My Name Is Irene "
+
+var myNewThirdVariable : String
+myNewThirdVariable = "Ku'uleialohamaikalani Ilalio"
+
+var myFourthVariable = myNewFirstVariable + myNewSecondVariable + myNewThirdVariable
+print(myFourthVariable)
+
+
+
+
+
+
